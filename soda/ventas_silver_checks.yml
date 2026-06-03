@@ -1,0 +1,6 @@
+checks for ventas_bronze:
+  - missing_count(id_venta) = 0
+  - missing_count(cliente_id) = 0
+  - duplicate_count(id_venta) = 0
+  - min(precio_total) >= 0.01
+  - freshness(fecha_ingesta) < 24h

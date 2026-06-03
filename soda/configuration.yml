@@ -1,0 +1,5 @@
+data_source local_lakehouse:
+  type: duckdb
+  path: ./soda/retail_data.db
+  read_only: true
+  schema_name: main

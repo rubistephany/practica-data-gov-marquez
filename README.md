@@ -1,4 +1,4 @@
-### 📊 Proyecto Destacado: Pipeline de Datos con Gobierno y Calidad (Data Governance)
+### 📊 Proyecto: Pipeline de Datos con Gobierno y Calidad (Data Governance)
 
 Diseñé e implementé un entorno local completo de Ingeniería de Datos enfocado en la trazabilidad, linaje y validación automatizada de calidad (Quality Gates) antes de la ingesta del negocio.
 
